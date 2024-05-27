@@ -9,6 +9,7 @@
     android:background="@drawable/pink"
     tools:context=".MainActivity">
 
+
     <RelativeLayout
         android:id="@+id/main_top_layout"
         android:layout_width="match_parent"
